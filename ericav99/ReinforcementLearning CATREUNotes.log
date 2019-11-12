@@ -1,0 +1,254 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.5.30)  18 JUL 2019 11:59
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**"ReinforcementLearning CATREUNotes.tex"
+(./ReinforcementLearning CATREUNotes.tex
+LaTeX2e <2017-04-15>
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(./ReinforcementLearning CATREUNotes.aux)
+\openout1 = `"ReinforcementLearning CATREUNotes.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count87
+\scratchdimen=\dimen105
+\scratchbox=\box26
+\nofMPsegments=\count88
+\nofMParguments=\count89
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count90
+\MPscratchDim=\dimen106
+\MPnumerator=\count91
+\makeMPintoPDFobject=\count92
+\everyMPtoPDFconversion=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 6.
+
+
+LaTeX Warning: No \author given.
+
+
+Overfull \hbox (8.08582pt too wide) in paragraph at lines 8--8
+[]\OT1/cmr/bx/n/17.28 Notes on Ma-chine Learn-ing for Au-tonomous
+ []
+
+
+Overfull \hbox (67.74478pt too wide) in paragraph at lines 22--23
+\OT1/cmr/m/n/12 ing ac-tions in states of the world. https://www.jair.org/index
+.php/jair/article/view/10166 
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<rviz1.JPG, id=9, 962.84718pt x 469.755pt>
+File: rviz1.JPG Graphic file (type jpg)
+<use rviz1.JPG>
+Package pdftex.def Info: rviz1.JPG  used on input line 49.
+(pdftex.def)             Requested size: 288.85638pt x 140.92758pt.
+<publisher1.JPG, id=10, 464.4853pt x 201.00093pt>
+File: publisher1.JPG Graphic file (type jpg)
+<use publisher1.JPG>
+Package pdftex.def Info: publisher1.JPG  used on input line 63.
+(pdftex.def)             Requested size: 278.69333pt x 120.60147pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<positionSubscriber.JPG, id=11, 950.04938pt x 462.97969pt>
+File: positionSubscriber.JPG Graphic file (type jpg)
+<use positionSubscriber.JPG>
+Package pdftex.def Info: positionSubscriber.JPG  used on input line 74.
+(pdftex.def)             Requested size: 380.01302pt x 185.18858pt.
+[2 <./rviz1.JPG>]
+<subscriberAndNav.JPG, id=15, 882.29625pt x 395.97937pt>
+File: subscriberAndNav.JPG Graphic file (type jpg)
+<use subscriberAndNav.JPG>
+Package pdftex.def Info: subscriberAndNav.JPG  used on input line 86.
+(pdftex.def)             Requested size: 441.14705pt x 197.9892pt.
+
+Overfull \hbox (51.14705pt too wide) in paragraph at lines 86--87
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<machinelearning1.JPG, id=16, 948.54375pt x 461.47406pt>
+File: machinelearning1.JPG Graphic file (type jpg)
+<use machinelearning1.JPG>
+Package pdftex.def Info: machinelearning1.JPG  used on input line 95.
+(pdftex.def)             Requested size: 284.56532pt x 138.44327pt.
+[3 <./publisher1.JPG> <./positionSubscriber.JPG>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<completesquare.JPG, id=20, 609.77812pt x 333.49594pt>
+File: completesquare.JPG Graphic file (type jpg)
+<use completesquare.JPG>
+Package pdftex.def Info: completesquare.JPG  used on input line 110.
+(pdftex.def)             Requested size: 304.8883pt x 166.74756pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<johnpic.JPG, id=21, 438.13687pt x 119.69719pt>
+File: johnpic.JPG Graphic file (type jpg)
+<use johnpic.JPG>
+Package pdftex.def Info: johnpic.JPG  used on input line 121.
+(pdftex.def)             Requested size: 219.06789pt x 59.84843pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4 <./subscriberAndNav.JPG>]
+<personcat.JPG, id=25, 292.84406pt x 229.60782pt>
+File: personcat.JPG Graphic file (type jpg)
+<use personcat.JPG>
+Package pdftex.def Info: personcat.JPG  used on input line 140.
+(pdftex.def)             Requested size: 146.42166pt x 114.80362pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<person1.JPG, id=26, 307.90031pt x 243.91125pt>
+File: person1.JPG Graphic file (type jpg)
+<use person1.JPG>
+Package pdftex.def Info: person1.JPG  used on input line 151.
+(pdftex.def)             Requested size: 153.94977pt x 121.95532pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <./machinelearning1.JPG>] [6 <./completesquare.JPG> <./johnpic.JPG>]
+[7 <./personcat.JPG> <./person1.JPG>] (./ReinforcementLearning CATREUNotes.aux)
+ ) 
+Here is how much of TeX's memory you used:
+ 1469 strings out of 492982
+ 21523 string characters out of 6134896
+ 77407 words of memory out of 5000000
+ 5042 multiletter control sequences out of 15000+600000
+ 5756 words of font info for 21 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,25p,584b,252s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on "ReinforcementLearning CATREUNotes.pdf" (7 pages, 851058 byte
+s).
+PDF statistics:
+ 49 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+
