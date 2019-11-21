@@ -1,0 +1,8 @@
+prefix=/home/reu-cat/catvehicle_ws/devel
+
+Name: catvehicle_openai_ros
+Description: Description of catvehicle_openai_ros
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/reu-cat/catvehicle_ws/devel/lib 
+Requires: 

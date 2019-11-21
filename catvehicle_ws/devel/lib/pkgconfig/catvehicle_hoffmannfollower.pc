@@ -1,0 +1,8 @@
+prefix=/home/reu-cat/catvehicle_ws/devel
+
+Name: catvehicle_hoffmannfollower
+Description: Description of catvehicle_hoffmannfollower
+Version: 1.0.1
+Cflags: 
+Libs: -L/home/reu-cat/catvehicle_ws/devel/lib 
+Requires: geometry_msgs nav_msgs roscpp std_msgs

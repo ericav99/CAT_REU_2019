@@ -1,0 +1,2 @@
+catvehicle:catvehicle_hoffmannfollower:cmdvel2gazebo:control_toolbox:obstaclestopper:openai_examples_projects/catvehicle_openai_ros:openai_examples_projects/turtle2_openai_ros_example:openai_examples_projects/wamv_openai_ros_example:openai_ros/openai_ros:publisher:sicktoolbox:sicktoolbox_wrapper:stepvel
+-DCATKIN_DEVEL_PREFIX=/home/reu-cat/catvehicle_ws/devel -DCMAKE_INSTALL_PREFIX=/home/reu-cat/catvehicle_ws/install -G Unix Makefiles
